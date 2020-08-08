@@ -6,7 +6,7 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=sparshagarwal25) -->
 
-## Currently Listening to -
+## 🎶 Currently Listening to -
 
 <a href="https://github-spotify-mohsecanu.vercel.app/now-playing?open">
     <img src="https://github-spotify-mohsecanu.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
