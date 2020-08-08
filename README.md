@@ -4,6 +4,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sparshagarwal25&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=sparshagarwal25) -->
+<a href="https://github-spotify-mohsecanu.vercel.app/now-playing?open">
+    <img src="https://github-spotify-mohsecanu.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
 ## 🔭 I'm Currently Working on -
 
 - The Student Life Organizer, Android Application -  
