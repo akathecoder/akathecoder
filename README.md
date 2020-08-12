@@ -1,6 +1,6 @@
 # Sparsh Agrawal - @sparshagarwal25
 
-👋 Hi, I'm Sparsh - a Computer Science & Engineering Graduate👨‍🎓 and an aspiring Android Developer.
+👋 Hi, I'm Sparsh - a Computer Science & Engineering Student👨‍🎓 and an aspiring Android Developer.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sparshagarwal25&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
