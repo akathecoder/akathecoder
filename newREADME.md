@@ -27,10 +27,11 @@
 <img alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />&nbsp;
 <img alt="Github" width="26px" src="https://img.icons8.com/fluent/48/000000/github.png" />&nbsp;
 <img alt="Adobe XD" width="26px" src="https://img.icons8.com/color/64/000000/adobe-xd.png" />&nbsp;
-<img alt="Adobe Photoshop" width="26px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />&nbsp;
+<img alt="Adobe Photoshop" width="26px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
+
+<!-- <img alt="" width="26px" src="" />&nbsp;
 <img alt="" width="26px" src="" />&nbsp;
-<img alt="" width="26px" src="" />&nbsp;
-<img alt="" width="26px" src="" />&nbsp;
+<img alt="" width="26px" src="" />&nbsp; -->
 
 <br>
 
@@ -40,7 +41,7 @@
 
 [<img src="https://github-spotify-ui-5mpf7hrlt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/vopn0m21n1478kded714xo6q9)
 
-[![Sparsh's github stats](https://github-readme-stats-mzx3hn64n.vercel.app/api?username=sparshagarwal25&show_icons=true&include_all_commits=true&count_private=true&theme=)][github-repo]
+[![Sparsh's github stats](https://github-readme-stats-mzx3hn64n.vercel.app/api?username=sparshagarwal25&show_icons=true&include_all_commits=true&count_private=true&theme=radical)][github-repo]
 
 </div>
 
