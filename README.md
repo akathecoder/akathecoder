@@ -8,8 +8,8 @@
 
 ## 🎶 Currently Listening to -
 
-<a href="https://github-spotify-mohsecanu.vercel.app/now-playing?open">
-    <img src="https://github-spotify-mohsecanu.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+<a href="github-spotify-ui.sparshagarwal25.vercel.app/now-playing?open">
+    <img src="https://github-spotify-ui.sparshagarwal25.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
 ## 🔭 I'm Currently Working on -
