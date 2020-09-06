@@ -17,10 +17,10 @@
 ## Tools & Technologies 👨🏽‍💻
 
 <img alt="Android Development" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />&nbsp;
+<img alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />&nbsp;
 <img alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />&nbsp;
 <img alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />&nbsp;
 <img alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />&nbsp;
-<img alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />&nbsp;
 <img alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />&nbsp;
 <img alt="VS Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />&nbsp;
 <img alt="Wordpress" width="26px" src="https://img.icons8.com/color/48/000000/wordpress.png" />&nbsp;
@@ -49,10 +49,17 @@
 
 ## 🔭 I'm Currently Working on -
 
-- The Student Life Organizer, Android Application  
-   This Android Application which helps a student organize his/her college life. It lets him/her add classes and lectures to attend, add notifications, add exams, add tasks and assignments, keep track of grades and expected result.
+- Who's That Superhero, Android Application - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/sparshagarwal25/whos-that-superhero)
 
-- Tic Tac Toe, Android Game - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/sparshagarwal25/TicTacToe-Android-Kotlin)
+  Who's That Pokemon for Superheros. This Android Application that shows you a superhero image and asks the Superhero Name in a quiz and let's you search a superhero details.
+
+  - API Used - [SuperHero API](https://www.superheroapi.com/)
+
+- Lyrify, Android Application - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/sparshagarwal25/Lyrify)
+
+  This Android Application lets you search a song lyrics using the AudD API.
+
+  - API Used - [AudD API](https://docs.audd.io/)
 
 * My Portfoilio - [<img src="https://img.icons8.com/fluent/24/000000/link.png"/>](https://sparshagarwal.me)
 
@@ -69,7 +76,7 @@
 ## 👨🏽‍💻 I'm Looking for -
 
 - Internship in Android Development (Preferred)
-- Internship in Coding
+- Internship in Software Development
 
 <br>
 
