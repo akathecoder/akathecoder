@@ -41,7 +41,7 @@
 
 [<img src="https://github-spotify-ui-5mpf7hrlt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/vopn0m21n1478kded714xo6q9)
 
-[![Sparsh's github stats](https://github-readme-stats-mzx3hn64n.vercel.app/api?username=sparshagarwal25&show_icons=true&include_all_commits=true&count_private=true&theme=radical)][github-repo]
+[![Sparsh's github stats](https://github-readme-stats-mzx3hn64n.vercel.app/api?username=akathecoder&show_icons=true&include_all_commits=true&count_private=true&theme=radical)][github-repo]
 
 </div>
 
@@ -49,13 +49,13 @@
 
 ## 🔭 I'm Currently Working on -
 
-- Who's That Superhero, Android Application - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/sparshagarwal25/whos-that-superhero)
+- Who's That Superhero, Android Application - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/akathecoder/whos-that-superhero)
 
   Who's That Pokemon for Superheros. This Android Application that shows you a superhero image and asks the Superhero Name in a quiz and let's you search a superhero details.
 
   - API Used - [SuperHero API](https://www.superheroapi.com/)
 
-- Lyrify, Android Application - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/sparshagarwal25/Lyrify)
+- Lyrify, Android Application - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/akathecoder/Lyrify)
 
   This Android Application lets you search a song lyrics using the AudD API.
 
@@ -87,8 +87,8 @@
 [banner]: assests/Banner.png
 [mail]: mailto:sparshaga25@gmail.com
 [website]: https://sparshagarwal.me
-[github]: https://github.com/sparshagarwal25/
-[github-repo]: https://github.com/sparshagarwal25?tab=repositories
+[github]: https://github.com/akathecoder/
+[github-repo]: https://github.com/akathecoder?tab=repositories
 [linkedin]: https://www.linkedin.com/in/i-sparshagarwal/
 
 <!-- Icons -->
