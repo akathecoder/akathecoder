@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### I'm a Computer Science & Engineering Student👨‍🎓 and an aspiring Android Developer.
+### I'm a Computer Science & Engineering Student👨‍🎓 and an aspiring Developer.
 
 <br>
 
@@ -17,10 +17,13 @@
 ## Tools & Technologies 👨🏽‍💻
 
 <img alt="Android Development" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />&nbsp;
+<img alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>&nbsp;
 <img alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />&nbsp;
 <img alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />&nbsp;
 <img alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />&nbsp;
-<img alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />&nbsp;
+<img alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />&nbsp;
+<img alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />&nbsp;
+<img alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" />&nbsp;
 <img alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />&nbsp;
 <img alt="VS Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />&nbsp;
 <img alt="Wordpress" width="26px" src="https://img.icons8.com/color/48/000000/wordpress.png" />&nbsp;
@@ -55,32 +58,26 @@
 
   - API Used - [SuperHero API](https://www.superheroapi.com/)
 
-- Lyrify, Android Application - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/akathecoder/Lyrify)
-
-  This Android Application lets you search a song lyrics using the AudD API.
-
-  - API Used - [AudD API](https://docs.audd.io/)
-
 * My Portfoilio - [<img src="https://img.icons8.com/fluent/24/000000/link.png"/>](https://sparshagarwal.me)
 
 <br>
 
 ## 🌱 I'm Currently Learning -
 
-- Android Development
-- API Usage
-- JavaScript
+- Web Development
+- Bootstrap
 
 <br>
 
 ## 👨🏽‍💻 I'm Looking for -
 
 - Internship in Android Development (Preferred)
+- Internship in Web Development
 - Internship in Software Development
 
 <br>
 
-> ## It’s not a bug🐛 – it’s an undocumented feature.😎
+> ## It’s not a bug🐛 – it’s an undocumented feature. 😎
 
 <!-- Syntax Links -->
 
@@ -95,9 +92,12 @@
 <!-- From: https://icons8.com/icon/pack/logos/color -->
 
 [android]: https://img.icons8.com/color/48/000000/android-os.png
+[bootstrap]: https://img.icons8.com/color/48/000000/bootstrap.png
 [java]: https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png
 [python]: https://img.icons8.com/color/48/000000/python.png
-[javascript]: https://img.icons8.com/color/48/000000/javascript.png
+[html5]: https://img.icons8.com/color/48/000000/html-5.png
+[css3]: https://img.icons8.com/color/48/000000/css3.png
+[javascript]: https://img.icons8.com/color/48/000000/javascript-logo-1.png
 [linux]: https://img.icons8.com/color/48/000000/linux.png
 [vs-code]: https://img.icons8.com/color/48/000000/visual-studio-code-2019.png
 [wordpress]: https://img.icons8.com/color/48/000000/wordpress.png
