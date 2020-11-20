@@ -16,8 +16,11 @@
 
 ## Tools & Technologies 👨🏽‍💻
 
-<img alt="Android Development" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />&nbsp;
+<img alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />&nbsp;
+<img alt="NodeJS" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />&nbsp;
+<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />&nbsp;
 <img alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>&nbsp;
+<img alt="Android Development" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />&nbsp;
 <img alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />&nbsp;
 <img alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />&nbsp;
 <img alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />&nbsp;
@@ -26,6 +29,7 @@
 <img alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" />&nbsp;
 <img alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />&nbsp;
 <img alt="VS Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />&nbsp;
+<img alt="npm" width="26px" src="https://img.icons8.com/color/48/000000/npm.png" />&nbsp;
 <img alt="Wordpress" width="26px" src="https://img.icons8.com/color/48/000000/wordpress.png" />&nbsp;
 <img alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />&nbsp;
 <img alt="Github" width="26px" src="https://img.icons8.com/fluent/48/000000/github.png" />&nbsp;
@@ -52,11 +56,12 @@
 
 ## 🔭 I'm Currently Working on -
 
-- Who's That Superhero, Android Application - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/akathecoder/whos-that-superhero)
+- Movie Time, React Website - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/akathecoder/Movie-Time)
 
-  Who's That Pokemon for Superheros. This Android Application that shows you a superhero image and asks the Superhero Name in a quiz and let's you search a superhero details.
+  This Website shows the details of Movies and TV Shows by fetching the data from TMDB.
+  (Under Construction)
 
-  - API Used - [SuperHero API](https://www.superheroapi.com/)
+  - API Used - [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction)
 
 * My Portfoilio - [<img src="https://img.icons8.com/fluent/24/000000/link.png"/>](https://sparshagarwal.me)
 
@@ -65,13 +70,14 @@
 ## 🌱 I'm Currently Learning -
 
 - Web Development
-- Bootstrap
+- React
 
 <br>
 
 ## 👨🏽‍💻 I'm Looking for -
 
-- Internship in Android Development (Preferred)
+- Internship in React Development (Preferred)
+- Internship in Android Development
 - Internship in Web Development
 - Internship in Software Development
 
@@ -91,14 +97,18 @@
 <!-- Icons -->
 <!-- From: https://icons8.com/icon/pack/logos/color -->
 
+[react]: https://img.icons8.com/color/48/000000/react-native.png
 [android]: https://img.icons8.com/color/48/000000/android-os.png
 [bootstrap]: https://img.icons8.com/color/48/000000/bootstrap.png
+[nodejs]: https://img.icons8.com/color/48/000000/nodejs.png
+[mongodb]: https://img.icons8.com/color/48/000000/mongodb.png
 [java]: https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png
 [python]: https://img.icons8.com/color/48/000000/python.png
 [html5]: https://img.icons8.com/color/48/000000/html-5.png
 [css3]: https://img.icons8.com/color/48/000000/css3.png
 [javascript]: https://img.icons8.com/color/48/000000/javascript-logo-1.png
 [linux]: https://img.icons8.com/color/48/000000/linux.png
+[npm]: https://img.icons8.com/color/48/000000/npm.png
 [vs-code]: https://img.icons8.com/color/48/000000/visual-studio-code-2019.png
 [wordpress]: https://img.icons8.com/color/48/000000/wordpress.png
 [git]: https://img.icons8.com/color/48/000000/git.png
