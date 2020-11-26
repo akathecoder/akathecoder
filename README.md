@@ -56,7 +56,7 @@
 
 ## 🔭 I'm Currently Working on -
 
-- Movie Time, React Website - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/akathecoder/Movie-Time)
+- Movieinator, React Website - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/akathecoder/movieinator)
 
   This Website shows the details of Movies and TV Shows by fetching the data from TMDB.
   (Under Construction)
