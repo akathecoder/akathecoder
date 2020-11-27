@@ -56,11 +56,12 @@
 
 ## 🔭 I'm Currently Working on -
 
-- Movieinator, React Website - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/akathecoder/movieinator)
+- Movieinator, React Website - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/akathecoder/movieinator) [<img src="https://img.icons8.com/fluent/24/000000/link.png"/>](https://movieinator.herokuapp.com/)
 
   This Website shows the details of Movies and TV Shows by fetching the data from TMDB.
   (Under Construction)
 
+  - [Live Demo](https://movieinator.herokuapp.com/)
   - API Used - [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction)
 
 * My Portfoilio - [<img src="https://img.icons8.com/fluent/24/000000/link.png"/>](https://sparshagarwal.me)
