@@ -6,13 +6,14 @@
 
 ### I'm a Computer Science & Engineering Student👨‍🎓 and an aspiring Developer.
 
-<br>
-
-## Connect With Me 👇
+<!-- ## Connect With Me 👇 -->
 
 [<img alt="sparshagarwal.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]&nbsp;&nbsp;&nbsp;
 [<img  alt="i-sparshagarwal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;&nbsp;
-[<img  alt="sparshaga25@gmail.com | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img  alt="sparshaga25@gmail.com | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]&nbsp;&nbsp;&nbsp;
+[<img  alt="Dev.to | Blog" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][blog]
+
+<br>
 
 ## Tools & Technologies 👨🏽‍💻
 
@@ -94,6 +95,7 @@
 [github]: https://github.com/akathecoder/
 [github-repo]: https://github.com/akathecoder?tab=repositories
 [linkedin]: https://www.linkedin.com/in/i-sparshagarwal/
+[blog]: https://dev.to/akathecoder
 
 <!-- Icons -->
 <!-- From: https://icons8.com/icon/pack/logos/color -->
