@@ -55,7 +55,7 @@
 
 <br>
 
-## 🔭 I'm Currently Working on -
+<!-- ## 🔭 I'm Currently Working on -
 
 - Movieinator, React Website - [<img src="https://img.icons8.com/fluent/24/000000/github.png"/>](https://github.com/akathecoder/movieinator) [<img src="https://img.icons8.com/fluent/24/000000/link.png"/>](https://movieinator.herokuapp.com/)
 
@@ -67,12 +67,11 @@
 
 * My Portfoilio - [<img src="https://img.icons8.com/fluent/24/000000/link.png"/>](https://sparshagarwal.me)
 
-<br>
+<br> -->
 
 ## 🌱 I'm Currently Learning -
 
-- Web Development
-- React
+- Blockchain Development
 
 <br>
 
