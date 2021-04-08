@@ -75,6 +75,15 @@
 
 <br>
 
+## 📝 Blog
+
+These are my latest posts on [Dev.to](https://dev.to/akathecoder)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
 ## 👨🏽‍💻 I'm Looking for -
 
 - Internship in React Development (Preferred)
