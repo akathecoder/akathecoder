@@ -74,6 +74,8 @@
 These are my latest posts on [Dev.to](https://dev.to/akathecoder)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 VS Code Extensions to level up your development game](https://dev.to/akathecoder/top-10-vs-code-extensions-to-level-up-your-development-game-18i)
+- [Get Started with Web Development](https://dev.to/akathecoder/get-started-with-web-development-27ee)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
