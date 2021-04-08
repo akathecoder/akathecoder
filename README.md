@@ -65,15 +65,9 @@
   - [Live Demo](https://movieinator.herokuapp.com/)
   - API Used - [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction)
 
-* My Portfoilio - [<img src="https://img.icons8.com/fluent/24/000000/link.png"/>](https://sparshagarwal.me)
+- My Portfoilio - [<img src="https://img.icons8.com/fluent/24/000000/link.png"/>](https://sparshagarwal.me)
 
 <br> -->
-
-## 🌱 I'm Currently Learning -
-
-- Blockchain Development
-
-<br>
 
 ## 📝 Blog
 
@@ -84,6 +78,12 @@ These are my latest posts on [Dev.to](https://dev.to/akathecoder)
 
 <br>
 
+<!-- ## 🌱 I'm Currently Learning -
+
+- Blockchain Development
+
+<br>
+
 ## 👨🏽‍💻 I'm Looking for -
 
 - Internship in React Development (Preferred)
@@ -91,7 +91,7 @@ These are my latest posts on [Dev.to](https://dev.to/akathecoder)
 - Internship in Web Development
 - Internship in Software Development
 
-<br>
+<br> -->
 
 > ## It’s not a bug🐛 – it’s an undocumented feature. 😎
 
