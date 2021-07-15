@@ -49,7 +49,7 @@
 
 [<img src="https://github-spotify-ui-5mpf7hrlt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/vopn0m21n1478kded714xo6q9)
 
-[![Sparsh's github stats](https://github-readme-stats-mzx3hn64n.vercel.app/api?username=akathecoder&show_icons=true&include_all_commits=true&count_private=true&theme=radical)][github-repo]
+<!-- [![Sparsh's github stats](https://github-readme-stats-mzx3hn64n.vercel.app/api?username=akathecoder&show_icons=true&include_all_commits=true&count_private=true&theme=radical)][github-repo] -->
 
 </div>
 
